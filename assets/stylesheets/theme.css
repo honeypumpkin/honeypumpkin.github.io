@@ -1,21 +1,39 @@
 body {
-  background-color: #eeeeee;
-  color: #030303;
-  margin: 0;
-  padding: 0;
+  background-color: #99cccc;
+  color: #eeeeee;
+  margin: 15px;
+  padding: 15px;
+  font-family: sans-serif;
 }
+.thumbnail {
+  border: 5px solid white;
 
+
+
+}
+.banner {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .header {
   padding: 15px;
+  border-bottom: 2px solid white;
+  font-family: sans-serif;
+  align-items: center;
 }
 
 .content {
-  background-color: #030303;
+  background-color: #99cccc;
   color: #eeeeee;
   display: flex;
-  padding: 15px;
+  font-family: sans-serif;
+
+
 }
 
 p {
-  margin: 0 15px;
+  font-family: sans-serif;
+  
+
 }
